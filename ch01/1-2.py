@@ -4,3 +4,4 @@ patten = '\w+\s\w+'
 data = 'hello ,wang gang,li ming,cang shuya'
 ss = re.findall(patten,data)
 printf(ss)
+print(ss)
